@@ -11,7 +11,7 @@ const Layout = ({ children }) => {
                 {children}
             </main>
             <footer className="footer">
-                Made with ❤️ by ChatGPT
+                Made with ❤️ by Gurinder Singh Ghuman
             </footer>
 
             <style jsx>{`
