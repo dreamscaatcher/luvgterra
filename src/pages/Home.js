@@ -1,12 +1,14 @@
 import React from 'react';
-import Register from './Register';
+
+import Chat from '../components/chat';
 
 function Home() {
   return (
     <div>
       <h1>Home</h1>
       <p>This is the home page.</p>
-      <Register/>
+      
+      <Chat/>
     </div>
   );
 }
